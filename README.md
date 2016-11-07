@@ -63,6 +63,15 @@ v.45
 * Formattering av HTML
 * Grundläggande CSS
 
+#### Länkar
+
+* [HTML DOM](http://www.quirksmode.org/dom/intro.html)
+    - Förklaring av vad HTML DOM är
+* [HTML Reference | MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element)
+    - Referens till alla element som går att använda i HTML5
+* [CSS Reference | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+    - Referens till alla properties som går att använda i CSS.
+
 ---
 v.46
 ### Pass 2: Måndag 14/11
@@ -201,6 +210,15 @@ v.4
 ---
 
 ## Links
+
+* [w3schools.com: HTML5 Tutorial](http://www.w3schools.com/html/)
+* [w3schools.com: CSS3 Tutorial](http://www.w3schools.com/css/default.asp)
+* [HTML DOM](http://www.quirksmode.org/dom/intro.html)
+    - Förklaring av vad HTML DOM är och hur vi kan använda oss utav det.
+* [HTML Reference | MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element)
+    - Referens till alla element som går att använda i HTML5
+* [CSS Reference | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+    - Referens till alla properties som går att använda i CSS.
 
 
 
