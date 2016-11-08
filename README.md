@@ -84,6 +84,16 @@ v.46
     * Semantisk HTML
     * Validering
 
+* [Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
+    - Interaktiv tutorial som visar de olika positioneringsteknikerna
+* [A List Apart | CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
+    - Varning! Mycket text men nyttig!
+* [CSS-Tricks | Absolute Positioning Inside Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
+    - Hur man positionerar element på varandra.
+* [w3schools.com | Semantic html](http://www.w3schools.com/html/html5_semantic_elements.asp)
+    - Semantiska element i html
+
+
 ---
 v.47
 ### Pass 3: Måndag 21/11
