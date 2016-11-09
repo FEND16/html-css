@@ -74,7 +74,7 @@ v.45
 
 ---
 v.46
-### Pass 2: Måndag 14/11
+### Pass 2: Onsdag 9/11
 
 * CSS: 
     * Selektorer
@@ -90,6 +90,8 @@ v.46
     - Varning! Mycket text men nyttig!
 * [CSS-Tricks | Absolute Positioning Inside Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
     - Hur man positionerar element på varandra.
+* [CSS-Tricks | All About Floats](https://css-tricks.com/all-about-floats/)
+    - En guide till hur man använder float.
 * [w3schools.com | Semantic html](http://www.w3schools.com/html/html5_semantic_elements.asp)
     - Semantiska element i html
 
