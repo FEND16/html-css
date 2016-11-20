@@ -102,21 +102,38 @@ v.47
 
 * Layouttekniker
     - `display`-egenskapen
+    - Positioneringstekniker
     - Boxmodellen
     - Flexbox
+* CSS-selektorer
+
+*[ CSS-Tricks | Flexbox ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox | MDN] (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
+* [CSS Selectors | Cheat Sheet](http://www.cheetyr.com/css-selectors)
 
 ### Pass 4: Onsdag 23/11
 
 * Tabeller
 * Formulär
 * Styla tabeller och formulär med CSS
+* pseudo-selektorer
+
+* [ html5doctor | HTML5 Forms](http://html5doctor.com/html5-forms-introduction-and-new-attributes/)
+* [ CSS-tricks | Complete Guide To Tables](https://css-tricks.com/complete-guide-table-element/)
+* [w3schools.com | Styling Tables](http://www.w3schools.com/css/css_table.asp)
+* [CSS Selectors | Cheat Sheet](http://www.cheetyr.com/css-selectors)
 
 ---
 v.48
 
 ### Pass 5: Torsdag 1/12
 
-* Presentation och arbete med obligatorisk inlämningsuppgift inom HTML & CSS. (Mindre individuell uppgift)
+* Upplägg av kod / Best Practice.
+
+* Arbete med obligatorisk inlämningsuppgift inom HTML & CSS. (Mindre individuell uppgift)
+
+* [AirBnB CSS Styleguide](https://github.com/airbnb/css)
+* [Good and Bad CSS Practices for Beginners](https://speckyboy.com/good-bad-css-practices/)
 
 ### Pass 6: Fredag 2/12
 
@@ -130,6 +147,9 @@ v.49
 * Responsivitet
     - Media Queries
     - Mobile first / Desktop First
+
+* [A List Apart](http://alistapart.com/article/responsive-web-design)
+* [Google Developers Fundamentals | Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ui/responsive/)
 
 ### Pass 8: Tisdag 6/12
 
