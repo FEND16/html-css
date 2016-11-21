@@ -6,7 +6,7 @@
     - Snabb tutorial som går igenom grunderna inom all sorts positionering. Float, position, margin, padding och flexbox.
 * [CSS-Tricks | Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
     - Reference till det mesta som har med flexbox att göra
-* [W3Schools - CSS Selectors](http://www.w3schools.com/cssref/css_selectors.asp))
+* [W3Schools - CSS Selectors](http://www.w3schools.com/cssref/css_selectors.asp)
     - Referens till CSS-selektorer att använda.
 * [Smashing Magazine - CSS specificity](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
     - Vilka selektorer som prioriteras över vilka.
@@ -102,8 +102,8 @@ body, html{
 * Gör så att varannan `.inner-square` är positionerad i nedre hörnet av `.square`.
 * Gör så att bara den tredje `.square` har en annan bakgrundfärg.
 * Lägg till ytterligare 4 square med en inner-square. (D.v.s kopiera redan existerande kod så att du har 8 div).
-* Det börjar bli lite trångt, så använd `flex-flow för att jämna ut fördelningen av divar så att de flyttas ner om de inte får plats.
-* Använd `order för att förflytta diven med annorlunda färg så att den ligger sist bland alla divar.
+* Det börjar bli lite trångt, så använd `flex-flow` för att jämna ut fördelningen av divar så att de flyttas ner om de inte får plats.
+* Använd `order` för att förflytta diven med annorlunda färg så att den ligger sist bland alla divar.
 
 ## Övning 3
 
