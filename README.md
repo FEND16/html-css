@@ -84,6 +84,7 @@ v.46
     * Semantisk HTML
     * Validering
 
+
 * [Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
     - Interaktiv tutorial som visar de olika positioneringsteknikerna
 * [A List Apart | CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
@@ -107,6 +108,7 @@ v.47
     - Flexbox
 * CSS-selektorer
 
+
 *[ CSS-Tricks | Flexbox ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox | MDN] (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
 * [CSS Selectors | Cheat Sheet](http://www.cheetyr.com/css-selectors)
@@ -116,7 +118,8 @@ v.47
 * Tabeller
 * Formulär
 * Styla tabeller och formulär med CSS
-* pseudo-selektorer
+* Pseudo-selektorer
+
 
 * [ html5doctor | HTML5 Forms](http://html5doctor.com/html5-forms-introduction-and-new-attributes/)
 * [ CSS-tricks | Complete Guide To Tables](https://css-tricks.com/complete-guide-table-element/)
@@ -157,21 +160,25 @@ v.49
 * Hantering av bilder
     * Vektorgrafik i webbläsaren
     * Pixelgrafik i webbläsaren
+    * webP
 
 ---
 v.50
 
 ### Pass 9: Onsdag 14/12
 
-* Webbläsarkompabilitet
-    - Cross Browser Compatibility
+* SASS - Sassy CSS
+    - Installation
+    - Variabler
+    - Nesting
+    - Partials
 
 ### Pass 10: Torsdag 15/12
 
-* Tillgänglighet / Accessibility
-    - Native elements
-    - Roles
-    - ARIA
+* SASS - Sassy CSS
+    - Funktioner
+    - Mixins
+    - Fördjupad sass
 
 ### Pass 11: Fredag 16/12
 
@@ -192,28 +199,24 @@ v. 51
 ### Pass 13: Torsdag 22/12
 
 * Ramverk fortsättning
-* **Projektuppgiften ges ut av läraren (Större gruppuppgift)**
 
 ---
 v.1
 
 ### Pass 14: Måndag 2/1
 
-* SASS - Sassy CSS
-    - Installation
-    - Variabler
-    - Nesting
-    - Partials
+* Tillgänglighet / Accessibility
+    - Native elements
+    - Roles
+    - ARIA
 
 ---
 v.2
 
 ### Pass 15: Måndag 9/1
 
-* SASS - Sassy CSS
-    - Funktioner
-    - Mixins
-    - Fördjupad sass
+* Webbläsarkompabilitet
+    - Cross Browser Compatibility
 
 ### Pass 16: Tisdag 10/1
 
