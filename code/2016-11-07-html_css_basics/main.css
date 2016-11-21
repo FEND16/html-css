@@ -1,0 +1,23 @@
+h1 {
+	/*Hej*/
+	color: green;
+}
+#my-id{
+	color: teal;
+}
+.my-class{
+	color: lightsalmon;
+}
+
+.my-div{
+	width: 200px;
+	height: 200px;
+	background-color: orange;
+	border: 1px solid #000;
+	display: block;
+	margin: 20px 20px 20px 20px;
+	margin-top:20px;
+	margin-bottom:50px;
+	padding: 20px;
+	margin: 0 auto;
+}
