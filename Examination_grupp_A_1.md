@@ -2,7 +2,7 @@
 
 ## Introduktion till uppgiften
 
-I denna uppgift kommer ni inom era självvalda grupper att skapa en webbsida för att presentera en fiktiv webbyrå som består av gruppens medlemmar. Den grupp ni arbetar i under denna kurs ska ses som en mindre leverantör av webbsidor/webappar.
+I denna uppgift kommer ni inom era självvalda grupper att skapa en webbsida för att presentera en fiktiv webbyrå som består av gruppens medlemmar. Den grupp ni arbetar i under denna kurs ska ses som en mindre leverantör av webbsidor/webappar. Gruppen ska bestå av **3-4** medlemmar.
 
 Delmoment 1,2 & 4 är densamma för både uppgift **A_1** och **A_2**. Delmoment 3 (skapandet av själva sidan) skiljer sig i uppgifterna och ska tas hänsyn till.
 

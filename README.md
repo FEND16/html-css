@@ -109,7 +109,7 @@ v.47
 * CSS-selektorer
 
 
-*[ CSS-Tricks | Flexbox ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [ CSS-Tricks | Flexbox ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox | MDN] (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
 * [CSS Selectors | Cheat Sheet](http://www.cheetyr.com/css-selectors)
 
