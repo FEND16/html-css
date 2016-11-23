@@ -125,6 +125,7 @@ v.47
 * [ CSS-tricks | Complete Guide To Tables](https://css-tricks.com/complete-guide-table-element/)
 * [w3schools.com | Styling Tables](http://www.w3schools.com/css/css_table.asp)
 * [CSS Selectors | Cheat Sheet](http://www.cheetyr.com/css-selectors)
+* [Smashing Magazine | Ultimate Guide to Psuedo-CSS](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
 
 ---
 v.48
