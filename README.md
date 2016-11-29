@@ -121,6 +121,7 @@ v.47
 * Pseudo-selektorer
 
 
+
 * [ html5doctor | HTML5 Forms](http://html5doctor.com/html5-forms-introduction-and-new-attributes/)
 * [ CSS-tricks | Complete Guide To Tables](https://css-tricks.com/complete-guide-table-element/)
 * [w3schools.com | Styling Tables](http://www.w3schools.com/css/css_table.asp)
@@ -133,11 +134,15 @@ v.48
 ### Pass 5: Torsdag 1/12
 
 * Upplägg av kod / Best Practice.
+* Webtypografi & färg
 
 * Arbete med obligatorisk inlämningsuppgift inom HTML & CSS. (Mindre individuell uppgift)
 
 * [AirBnB CSS Styleguide](https://github.com/airbnb/css)
 * [Good and Bad CSS Practices for Beginners](https://speckyboy.com/good-bad-css-practices/)
+* [Why Vertical Rythm?](https://zellwk.com/blog/why-vertical-rhythms/)
+* [MDN - CSS | Color](https://developer.mozilla.org/en/docs/Web/CSS/color_value)
+* [Professional Web Typography (Oändligt bra guide))](https://prowebtype.com/)
 
 ### Pass 6: Fredag 2/12
 
@@ -151,9 +156,11 @@ v.49
 * Responsivitet
     - Media Queries
     - Mobile first / Desktop First
+    - Progressive enhancement / Graceful Degradation
 
-* [A List Apart](http://alistapart.com/article/responsive-web-design)
+* [A List Apart | Responsive Web Design (köttig artikel))](http://alistapart.com/article/responsive-web-design)
 * [Google Developers Fundamentals | Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ui/responsive/)
+* [MDN - CSS | Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 ### Pass 8: Tisdag 6/12
 
@@ -162,6 +169,12 @@ v.49
     * Vektorgrafik i webbläsaren
     * Pixelgrafik i webbläsaren
     * webP
+
+
+* [Google Developers | webP](https://developers.google.com/speed/webp/)
+* [Dev Opera | Responsive Images](https://dev.opera.com/articles/responsive-images/)
+* [CSS-tricks | Using SVG](https://css-tricks.com/using-svg/)
+
 
 ---
 v.50
@@ -174,6 +187,12 @@ v.50
     - Nesting
     - Partials
 
+
+
+* [Sass language](http://sass-lang.com/)
+* [The Sass way](http://thesassway.com/)
+* [Scotch | Getting Started with Sass](https://scotch.io/tutorials/getting-started-with-sass)
+
 ### Pass 10: Torsdag 15/12
 
 * SASS - Sassy CSS
@@ -181,11 +200,23 @@ v.50
     - Mixins
     - Fördjupad sass
 
+
+* [Sass](http://sass-lang.com/)
+* [The Sass way](http://thesassway.com/)
+
+
 ### Pass 11: Fredag 16/12
 
 * Animering
     * Animering med transitions
     * Animering med keyframes
+
+* Transform property
+
+
+* [CSS-Tricks | Animation](https://css-tricks.com/almanac/properties/a/animation/)
+* [CSS-Tricks | Keyframe animation syntax](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
+* [MDN - CSS | Transform property](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 
 ---
 v. 51
@@ -196,6 +227,10 @@ v. 51
     - Vilka ramverk finns tillgängliga
     - Vad gör de olika ramverken
     - Bygga en enklare sida med ramverk
+
+* [Bootstrap v4](https://v4-alpha.getbootstrap.com/)
+* [Foundation](http://foundation.zurb.com/)
+* [Pure.css](http://purecss.io/)
 
 ### Pass 13: Torsdag 22/12
 
@@ -210,6 +245,12 @@ v.1
     - Native elements
     - Roles
     - ARIA
+    - Screen readers
+    - Kontrast
+    - Läslighet
+
+[w3c | HTML Aria](https://www.w3.org/TR/html-aria/)
+
 
 ---
 v.2
@@ -218,6 +259,9 @@ v.2
 
 * Webbläsarkompabilitet
     - Cross Browser Compatibility
+    - Prefix
+    - IE-fixes
+    - Cross Browser testing
 
 ### Pass 16: Tisdag 10/1
 
