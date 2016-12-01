@@ -17,7 +17,7 @@ Din hemsida ska marknadsföra det påhittade startup-företaget: **"Plantify"** 
 Företaget har inte bestämt sig för någon bestämd färgprofil ännu så valet av färg är fortfarande upp till dig som skapar sidan. Färgvalet ska dock ha någon relation till växtriket. Företaget har en logga som ni ser till höger men färgerna är inte definitiva. 
 
 * [Länk till logo](http://i.imgur.com/ZfIDTtp.png)
-* [Länk till illustrator-fil för logo *.ai](https://github.com/FEND16/html-css/blob/master/plantify.ai)
+* [Länk till illustrator-fil för logo *.ai](https://github.com/FEND16/html-css/raw/master/plantify.ai)
 
 ## Innehåll
 
