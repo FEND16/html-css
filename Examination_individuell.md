@@ -14,13 +14,13 @@ Din hemsida ska marknadsföra det påhittade startup-företaget: **"Plantify"** 
 
 ## Info om Plantify
 
-Företaget har inte bestämt sig för någon bestämd färgprofil ännu så valet av färg är fortfarande upp till dig som skapar sidan. Färgvalet ska dock ha någon relation till växtriket. Företaget har en logga som ni ser till höger men färgerna är inte definitiva.
+Företaget har inte bestämt sig för någon bestämd färgprofil ännu så valet av färg är fortfarande upp till dig som skapar sidan. Färgvalet ska dock ha någon relation till växtriket. Företaget har en logga som ni ser till höger men färgerna är inte definitiva. [Länk till logo](http://i.imgur.com/ZfIDTtp.png)
 
 ## Innehåll
 
 Hemsidan ska total ha __5__ sidor varav alla sidor ska vara länkade till från förstasidan: `index.html`. Varje sida ska använda sig utav samma css-fil. 
 
-* Sidan ska ha en en header som presenterar företagets namn. Headern kan också innehålla en bild som på något sätt visar vad företaget gör och står för.
+* Sidan ska ha en header som presenterar företagets namn. Headern kan också innehålla en bild som på något sätt visar vad företaget gör och står för.
 * På förstasidan ska det finnas information om vad företaget gör.
 * Sidan ska ha navigation med länkar i denna ordning:
     - Home
