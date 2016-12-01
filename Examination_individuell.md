@@ -20,7 +20,7 @@ Företaget har inte bestämt sig för någon bestämd färgprofil ännu så vale
 
 Hemsidan ska total ha __5__ sidor varav alla sidor ska vara länkade till från förstasidan: `index.html`. Varje sida ska använda sig utav samma css-fil. 
 
-* Sidan ska ha en en header som presenterar företagets namn. Headern kan också innehålla en bild som på något sätt visar vad företaget gör och står för.
+* Sidan ska ha en header som presenterar företagets namn. Headern kan också innehålla en bild som på något sätt visar vad företaget gör och står för.
 * På förstasidan ska det finnas information om vad företaget gör.
 * Sidan ska ha navigation med länkar i denna ordning:
     - Home
