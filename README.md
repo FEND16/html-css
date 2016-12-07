@@ -3,6 +3,7 @@
 Allt material till kursen HTML & CSS för FEND16 finns och kommer att finnas i detta repo. 
 
 * Presentationer och genomgångar ligger under mappen [slides](slides). 
+    - Vissa genomgångar kan även hittas på denna länk [fend16.github.io/slides](https://fend16.github.io/slides/)
 * Kod från olika kodgenomgångar under kursens gång ligger under mappen [code](code). 
 * Övningar som vi gör under lektionstid ligger under mappen [exercises](exercises)
 * Eventuella lösningsförslag kommer att ligga under mappen [solutions](solutions).
@@ -84,6 +85,7 @@ v.46
     * Semantisk HTML
     * Validering
 
+#### Länkar
 
 * [Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
     - Interaktiv tutorial som visar de olika positioneringsteknikerna
@@ -108,6 +110,7 @@ v.47
     - Flexbox
 * CSS-selektorer
 
+#### Länkar
 
 * [ CSS-Tricks | Flexbox ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox | MDN] (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
@@ -121,6 +124,7 @@ v.47
 * Pseudo-selektorer
 
 
+#### Länkar
 
 * [ html5doctor | HTML5 Forms](http://html5doctor.com/html5-forms-introduction-and-new-attributes/)
 * [ CSS-tricks | Complete Guide To Tables](https://css-tricks.com/complete-guide-table-element/)
@@ -138,11 +142,15 @@ v.48
 
 * Arbete med obligatorisk inlämningsuppgift inom HTML & CSS. (Mindre individuell uppgift)
 
+#### Länkar
+
 * [AirBnB CSS Styleguide](https://github.com/airbnb/css)
 * [Good and Bad CSS Practices for Beginners](https://speckyboy.com/good-bad-css-practices/)
+* [Keep your css-selectors short](http://csswizardry.com/2012/05/keep-your-css-selectors-short/)
 * [Why Vertical Rythm?](https://zellwk.com/blog/why-vertical-rhythms/)
 * [MDN - CSS | Color](https://developer.mozilla.org/en/docs/Web/CSS/color_value)
-* [Professional Web Typography (Oändligt bra guide))](https://prowebtype.com/)
+* [Professional Web Typography](https://prowebtype.com/)
+* [Typewolf.com](https://www.typewolf.com/)
 
 ### Pass 6: Fredag 2/12
 
@@ -158,9 +166,12 @@ v.49
     - Mobile first / Desktop First
     - Progressive enhancement / Graceful Degradation
 
-* [A List Apart | Responsive Web Design (köttig artikel))](http://alistapart.com/article/responsive-web-design)
+#### Länkar
+
+* [A List Apart | Responsive Web Design (köttig artikel)](http://alistapart.com/article/responsive-web-design)
 * [Google Developers Fundamentals | Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ui/responsive/)
 * [MDN - CSS | Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* [A List Apart | Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement)
 
 ### Pass 8: Tisdag 6/12
 
@@ -168,10 +179,12 @@ v.49
 * Hantering av bilder
     * Vektorgrafik i webbläsaren
     * Pixelgrafik i webbläsaren
-    * webP
 
+##### [Månresan](https:/fend16.github.io/slides/moon/index.html)
 
-* [Google Developers | webP](https://developers.google.com/speed/webp/)
+#### Länkar
+
+* [Smashing Magazine - srcset](https://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/)
 * [Dev Opera | Responsive Images](https://dev.opera.com/articles/responsive-images/)
 * [CSS-tricks | Using SVG](https://css-tricks.com/using-svg/)
 
@@ -188,6 +201,7 @@ v.50
     - Partials
 
 
+#### Länkar
 
 * [Sass language](http://sass-lang.com/)
 * [The Sass way](http://thesassway.com/)
@@ -200,6 +214,7 @@ v.50
     - Mixins
     - Fördjupad sass
 
+#### Länkar
 
 * [Sass](http://sass-lang.com/)
 * [The Sass way](http://thesassway.com/)
@@ -213,6 +228,7 @@ v.50
 
 * Transform property
 
+#### Länkar
 
 * [CSS-Tricks | Animation](https://css-tricks.com/almanac/properties/a/animation/)
 * [CSS-Tricks | Keyframe animation syntax](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
@@ -227,6 +243,8 @@ v. 51
     - Vilka ramverk finns tillgängliga
     - Vad gör de olika ramverken
     - Bygga en enklare sida med ramverk
+
+#### Länkar
 
 * [Bootstrap v4](https://v4-alpha.getbootstrap.com/)
 * [Foundation](http://foundation.zurb.com/)
@@ -248,6 +266,8 @@ v.1
     - Screen readers
     - Kontrast
     - Läslighet
+
+#### Länkar
 
 [w3c | HTML Aria](https://www.w3.org/TR/html-aria/)
 
@@ -291,6 +311,8 @@ v.4
 
 ## Links
 
+### Referensmaterial
+
 * [w3schools.com: HTML5 Tutorial](http://www.w3schools.com/html/)
 * [w3schools.com: CSS3 Tutorial](http://www.w3schools.com/css/default.asp)
 * [HTML DOM](http://www.quirksmode.org/dom/intro.html)
@@ -299,9 +321,55 @@ v.4
     - Referens till alla element som går att använda i HTML5
 * [CSS Reference | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
     - Referens till alla properties som går att använda i CSS.
+* [CSS Reference.io](http://cssreference.io/)
+* [CSS Selectors | Cheat Sheet](http://www.cheetyr.com/css-selectors)
+* [Smashing Magazine | Ultimate Guide to Psuedo-CSS](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
+
+
+### Positionering
+
+* [Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
+    - Interaktiv tutorial som visar de olika positioneringsteknikerna
+* [A List Apart | CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
+    - Varning! Mycket text men nyttig!
+* [CSS-Tricks | Absolute Positioning Inside Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
+    - Hur man positionerar element på varandra.
+* [CSS-Tricks | All About Floats](https://css-tricks.com/all-about-floats/)
+    - En guide till hur man använder float.
+* [CSS-Tricks | Flexbox ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox | MDN] (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
 
 
 
+### Formulär och tabeller
+
+* [ html5doctor | HTML5 Forms](http://html5doctor.com/html5-forms-introduction-and-new-attributes/)
+* [ CSS-tricks | Complete Guide To Tables](https://css-tricks.com/complete-guide-table-element/)
+* [w3schools.com | Styling Tables](http://www.w3schools.com/css/css_table.asp)
 
 
+## Best Practice
 
+* [Styleguides and Design Patterns](http://styleguides.io/examples.html)
+* [Good and Bad CSS Practices for Beginners](https://speckyboy.com/good-bad-css-practices/)
+* [Keep your css-selectors short](http://csswizardry.com/2012/05/keep-your-css-selectors-short/)
+* [Why Vertical Rythm?](https://zellwk.com/blog/why-vertical-rhythms/)
+
+## Typography
+
+* [Professional Web Typography](https://prowebtype.com/)
+    - Primer på hur vi använder typografi på nätet
+* [Typewolf.com](https://www.typewolf.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [Font Squirrel](https://www.fontsquirrel.com/)
+* [Font Squirrel - Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator)
+
+
+### Responsivitet
+
+* [A List Apart | Responsive Web Design (köttig artikel)](http://alistapart.com/article/responsive-web-design)
+* [Google Developers Fundamentals | Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ui/responsive/)
+* [Google Developers | Responsive Resizer](http://material.io/resizer/)
+* [MDN - CSS | Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* []
+* [A List Apart | Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement)
