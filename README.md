@@ -348,17 +348,16 @@ v.4
 * [w3schools.com | Styling Tables](http://www.w3schools.com/css/css_table.asp)
 
 
-## Best Practice
+### Best Practice
 
 * [Styleguides and Design Patterns](http://styleguides.io/examples.html)
 * [Good and Bad CSS Practices for Beginners](https://speckyboy.com/good-bad-css-practices/)
 * [Keep your css-selectors short](http://csswizardry.com/2012/05/keep-your-css-selectors-short/)
 * [Why Vertical Rythm?](https://zellwk.com/blog/why-vertical-rhythms/)
 
-## Typography
+### Typography
 
 * [Professional Web Typography](https://prowebtype.com/)
-    - Primer på hur vi använder typografi på nätet
 * [Typewolf.com](https://www.typewolf.com/)
 * [Google Fonts](https://fonts.google.com/)
 * [Font Squirrel](https://www.fontsquirrel.com/)
@@ -371,5 +370,4 @@ v.4
 * [Google Developers Fundamentals | Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ui/responsive/)
 * [Google Developers | Responsive Resizer](http://material.io/resizer/)
 * [MDN - CSS | Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-* []
 * [A List Apart | Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement)
