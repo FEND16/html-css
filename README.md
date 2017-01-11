@@ -144,6 +144,8 @@ v.48
 
 #### Länkar
 
+* **[Slides: Typografi & Färg](https://fend16.github.io/slides/html_css/typography.html#/)**
+
 * [AirBnB CSS Styleguide](https://github.com/airbnb/css)
 * [Good and Bad CSS Practices for Beginners](https://speckyboy.com/good-bad-css-practices/)
 * [Keep your css-selectors short](http://csswizardry.com/2012/05/keep-your-css-selectors-short/)
@@ -168,6 +170,8 @@ v.49
 
 #### Länkar
 
+* **[Slides: Responsive Web Design](https://fend16.github.io/slides/html_css/responsive.html#/)**
+
 * [A List Apart | Responsive Web Design (köttig artikel)](http://alistapart.com/article/responsive-web-design)
 * [Google Developers Fundamentals | Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ui/responsive/)
 * [MDN - CSS | Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
@@ -180,10 +184,10 @@ v.49
     * Vektorgrafik i webbläsaren
     * Pixelgrafik i webbläsaren
 
-##### [Månresan](https:/fend16.github.io/slides/moon/index.html)
-
 #### Länkar
 
+* **[Slides: Responsive Images](https://fend16.github.io/slides/html_css/responsive-images.html#/)**
+* **[Månresan](https:/fend16.github.io/slides/moon/index.html)**
 * [Smashing Magazine - srcset](https://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/)
 * [Dev Opera | Responsive Images](https://dev.opera.com/articles/responsive-images/)
 * [CSS-tricks | Using SVG](https://css-tricks.com/using-svg/)
@@ -200,39 +204,20 @@ v.50
     - Nesting
     - Partials
 
-
 #### Länkar
 
+* **[Slides: Sass](https://fend16.github.io/slides/html_css/sass.html#/)**
 * [Sass language](http://sass-lang.com/)
 * [The Sass way](http://thesassway.com/)
 * [Scotch | Getting Started with Sass](https://scotch.io/tutorials/getting-started-with-sass)
 
 ### Pass 10: Torsdag 15/12
 
-* SASS - Sassy CSS
-    - Funktioner
-    - Mixins
-    - Fördjupad sass
-
-#### Länkar
-
-* [Sass](http://sass-lang.com/)
-* [The Sass way](http://thesassway.com/)
-
+* Arbete med gruppuppgift
 
 ### Pass 11: Fredag 16/12
 
-* Animering
-    * Animering med transitions
-    * Animering med keyframes
-
-* Transform property
-
-#### Länkar
-
-* [CSS-Tricks | Animation](https://css-tricks.com/almanac/properties/a/animation/)
-* [CSS-Tricks | Keyframe animation syntax](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
-* [MDN - CSS | Transform property](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+Inställt p.g.a sjukdom
 
 ---
 v. 51
@@ -245,6 +230,8 @@ v. 51
     - Bygga en enklare sida med ramverk
 
 #### Länkar
+
+* **[Slides: Ramverk](https://fend16.github.io/slides/html_css/frameworks.html#/)**
 
 * [Bootstrap v4](https://v4-alpha.getbootstrap.com/)
 * [Foundation](http://foundation.zurb.com/)
@@ -259,17 +246,19 @@ v.1
 
 ### Pass 14: Måndag 2/1
 
-* Tillgänglighet / Accessibility
-    - Native elements
-    - Roles
-    - ARIA
-    - Screen readers
-    - Kontrast
-    - Läslighet
+* Animering
+    * Animering med transitions
+    * Animering med keyframes
+
+* Transform property
 
 #### Länkar
 
-[w3c | HTML Aria](https://www.w3.org/TR/html-aria/)
+* **[Slides: Animation](https://fend16.github.io/slides/html_css/animation.html)**
+
+* [CSS-Tricks | Animation](https://css-tricks.com/almanac/properties/a/animation/)
+* [CSS-Tricks | Keyframe animation syntax](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
+* [MDN - CSS | Transform property](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 
 
 ---
@@ -277,24 +266,21 @@ v.2
 
 ### Pass 15: Måndag 9/1
 
-* Webbläsarkompabilitet
-    - Cross Browser Compatibility
-    - Prefix
-    - IE-fixes
-    - Cross Browser testing
+* Eget arbete med gruppuppgiften
 
 ### Pass 16: Tisdag 10/1
 
-* Repetitiontillfälle
-    - Om det är något som måste tas upp igen och förklaras så avsätter vi denna dag för detta. Hör av er i tid om något som behövs tas upp.
+* Eget arbete med gruppuppgiften
 
 ---
 v.3
 
 ### Pass 17: Måndag 16/1
 
-* Handledning av projektuppgiften
-    - Eget arbete med uppgiften, lärare på plats för handledning
+* Webbläsarkompabilitet
+    - Cross Browser Compatibility
+    - Prefix
+    - Cross Browser testing
 
 ---
 v.4
