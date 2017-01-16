@@ -239,7 +239,7 @@ v. 51
 
 ### Pass 13: Torsdag 22/12
 
-* Ramverk fortsättning
+* Uppsamlingstillfälle för diverse uppgifter
 
 ---
 v.1
@@ -281,6 +281,9 @@ v.3
     - Cross Browser Compatibility
     - Prefix
     - Cross Browser testing
+
+* **[Slides: Cross Browser](https://fend16.github.io/slides/html_css/prefix.html#/)**
+* **[Information om länkar att använda](cross_browser.md)**
 
 ---
 v.4
