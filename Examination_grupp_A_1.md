@@ -78,7 +78,7 @@ All den kod din skriver ska valideras med valideringsverktyg för HTML & CSS. Ko
 
 ### Individuell reflektion
 
-Varje student skriver en individuell reflekterande text över arbetet med webbplatsen på ca 1000 tecken (ca 1 A4) där du skriver om arbetet "från ax till limpa". Du berättar om viktiga designval, problem som gruppen stött på och hur ni har löst dem. Du motiverar också för era designbeslut utifrån ett användbarhetsperspektiv.
+Varje student skriver en individuell reflekterande text över arbetet med webbplatsen på ca 500 ord (ca 1 A4) där du skriver om arbetet "från ax till limpa". Du berättar om viktiga designval, problem som gruppen stött på och hur ni har löst dem. Du motiverar också för era designbeslut utifrån ett användbarhetsperspektiv.
 
 Du redogör för hur det varit att arbeta utifrån *Scrum* och vad du bidragit med som helhet i arbetet. Avslutningsvis redovisas några viktiga erfarenheter och lärdomar du erhållit i arbetet med uppgiften. Reflektionen lämnas individuellt in på studentportalen.
 
